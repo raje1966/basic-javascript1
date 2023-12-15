@@ -1,3 +1,3 @@
 
-// console.log(jsUser.email);
-// console.log(jsUser["email"]);
+// console.log(tinderUser.keys.length);
+// console.log(Object.keys(tinderUser));

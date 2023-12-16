@@ -1,0 +1,22 @@
+const course = {
+    coursename: "js in Hindi",
+    price: "999",
+    courseInstructor: "hitesh"
+}
+
+// Instead of repeating the code multiple times with:
+// 1. course.coursename
+// 2. price.price, etc, we can do this in better syntax mentioned below:
+ const {courseInstructor} = course
+
+console.log(courseInstructor);
+
+//also we can shorten the courseInstructor to instructor saving time like:
+
+const { courseInstructor: instructor } = course
+
+console.log(instructor);
+
+// it will yield the same value as above.  This is destructuring of object.
+
+// Json can be in object or array form

@@ -1,4 +1,3 @@
-
-// user.welcomeMessage()
-// user.username = "sam"
-// user.welcomeMessage()
+(function raj() {
+//     console.log('DB CONNECTED');
+// })();

@@ -1,3 +1,4 @@
 
-// console.log(tinderUser.keys.length);
-// console.log(Object.keys(tinderUser));
+// user.welcomeMessage()
+// user.username = "sam"
+// user.welcomeMessage()
